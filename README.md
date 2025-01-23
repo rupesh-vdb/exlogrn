@@ -1,6 +1,6 @@
 # Exlogrn 🚀
 
-A starter app template for React Native Expo, featuring a ready-to-use login screen.
+A starter app template for React Native & Expo, featuring a ready-to-use auth screens.
 
 ![AllScreens](assets/screenshot/snap.png)
 
